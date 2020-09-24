@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:liuernan/cypress-demo-1.git",
   "author": "Jiawei <liujiaweidreamer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^5.2.0"
+  }
 }
